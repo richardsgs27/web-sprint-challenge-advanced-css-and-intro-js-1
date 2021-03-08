@@ -28,7 +28,7 @@ Please answer the following questions below, you may edit the readme file to inc
    Answer: Acessibility allows all people in the world or outside of it and people with disabilities to use the web.
 
 2. Talk about 3 different things you can do to ensure your website is accessible.
-   Answer: Make sure to use media queries. Use semantic language. Add images with Alt Text to describe images to disabled users.
+   Answer: Always make sure to use media queries. Use semantic language. Add images with Alt Text to describe images to disabled users.
 
 3. How would you explain the concept of a variable to someone new to programming?
    Answer: The concept of a variable can be explain as a way to store information that can be used later on.
